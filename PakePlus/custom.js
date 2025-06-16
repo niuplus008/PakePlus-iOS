@@ -29,8 +29,9 @@
 // @grant                     GM_setClipboard
 // @connect                   api.typechrome.com
 // @connect                   gitlab.com
-// @website                   https://soujiaoben.org/#/pages/list/detail?id=467776&host=greasyfork
+// @website                   https://soujiaoben.org/#/s?id=467776&host=greasyfork
 // ==/UserScript==
+
 
 
 /*
